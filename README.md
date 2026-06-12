@@ -26,8 +26,7 @@ this is my set up for my tokyo night windows rice
 
 
 # [fastfetch](https://github.com/fastfetch-cli/fastfetch)
-* [My fastfetch config](https://github.com/Rifqi2007c/winfetch-custom-theme)
-* [ASCII Art]()
+* [My fastfetch config and ASCII Art](https://github.com/Rifqi2007c/winfetch-custom-theme)
 
 
 # [Cava](https://github.com/karlstav/cava)(wsl with winscap)
