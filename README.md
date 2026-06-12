@@ -48,4 +48,5 @@
 * [btop4win](https://github.com/aristocratos/btop)
 * [yazi](https://github.com/sxyazi/yazi)
 * [pymatrix-rain](https://pypi.org/project/pymatrix-rain/)
+* [Midnight Discord Theme](https://github.com/refact0r/midnight-discord/tree/master)
 * Credits to Darren Lingters and SleepyCatHey!
