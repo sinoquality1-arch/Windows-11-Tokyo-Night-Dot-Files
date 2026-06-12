@@ -1,8 +1,8 @@
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a4990d94-091d-49b5-a6ea-92c4a7734b17" /># Windows-11-Tokyo-Night-Dot-Files
+Tokyo-Night-Dot-Files
 this is my set up for my tokyo night windows rice
-# ![Preview 1](https://media.discordapp.net/attachments/1514913728204771410/1514913729660321962/Screenshot_2026-06-12_152904.png?ex=6a2d18da&is=6a2bc75a&hm=886f91a3eb4b1be698fd29d53731d604937e777473c5bd677416cf071b43c081&animated=true)
-# ![Preview 2](https://media.discordapp.net/attachments/1514913728204771410/1514913729362399283/Untitled-1.jpg?ex=6a2d18da&is=6a2bc75a&hm=d912a8c6fc7f6cf068aa3d49f1ed3f5acde675f7ffa70215f79b8ad740c894f3&animated=true)
-# ![Preview 3](https://media.discordapp.net/attachments/1514913728204771410/1514913730813755392/Screenshot_2026-06-12_153903.png?ex=6a2d18db&is=6a2bc75b&hm=62c6808c4ac2a9792c4ca1e8b29f8b34e76d160fcbf6caf2c581295ae4321621&animated=true)
+# ![Preview 1](<https://media.discordapp.net/attachments/1514913728204771410/1514913729660321962/Screenshot_2026-06-12_152904.png?ex=6a2d18da&is=6a2bc75a&hm=886f91a3eb4b1be698fd29d53731d604937e777473c5bd677416cf071b43c081&animated=true>)
+# ![Preview 2](<https://media.discordapp.net/attachments/1514913728204771410/1514913729362399283/Untitled-1.jpg?ex=6a2d18da&is=6a2bc75a&hm=d912a8c6fc7f6cf068aa3d49f1ed3f5acde675f7ffa70215f79b8ad740c894f3&animated=true>)
+# ![Preview 3](<https://media.discordapp.net/attachments/1514913728204771410/1514913730813755392/Screenshot_2026-06-12_153903.png?ex=6a2d18db&is=6a2bc75b&hm=62c6808c4ac2a9792c4ca1e8b29f8b34e76d160fcbf6caf2c581295ae4321621&animated=true>)
 
 
 # Terminal Font (make sure to install this first)
