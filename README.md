@@ -22,11 +22,12 @@ this is my set up for my tokyo night windows rice
 
 # Terminal
 * [Windows Terminal](https://github.com/microsoft/terminal)
-   - [settings.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/settings.json)
+   - [settings.json](https://github.com/sinoquality1-arch/Windows-11-Tokyo-Night-Dot-Files/blob/main/settings.json)
 
 
-# [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
-* [my custom fastfetch](https://github.com/Rifqi2007c/winfetch-custom-theme)
+# [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+* [My fastfetch config](https://github.com/Rifqi2007c/winfetch-custom-theme)
+* [ASCII Art]()
 
 
 # [Cava](https://github.com/karlstav/cava)(wsl with winscap)
