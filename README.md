@@ -24,7 +24,7 @@
     - [catppuccin](https://github.com/catppuccin/flow-launcher) 
 
 # [Terminal](https://github.com/microsoft/terminal)
-* [settings.json](https://github.com/sinoquality1-arch/Windows-11-Tokyo-Night-Dot-Files/blob/main/settings.json)
+* [settings.json](https://github.com/sinoquality1-arch/Windows-11-Tokyo-Night-Dot-Files/tree/main/Terminal)
 
 
 # [fastfetch](https://github.com/fastfetch-cli/fastfetch)
