@@ -10,11 +10,12 @@ this is my set up for my tokyo night windows rice
 * [JetBrains Mono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/latest/download/JetBrainsMono.zip)
 
 # [Komorebi](https://github.com/LGUG2Z/komorebi)
-* [komorebi.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi.json)
+* [komorebi.json](https://github.com/sinoquality1-arch/Windows-11-Tokyo-Night-Dot-Files/tree/main/Komorebi)
 * [masir](https://winstall.app/apps/LGUG2Z.masir) (OPTIONAL)
 
 
 # [YASB Bar Reborn](https://github.com/amnweb/yasb)
+* [YASB Config](https://github.com/sinoquality1-arch/Windows-11-Tokyo-Night-Dot-Files/tree/main/YASB)
 
 
 # [Flow Launcher](https://www.flowlauncher.com/)
@@ -30,8 +31,8 @@ this is my set up for my tokyo night windows rice
 * [My fastfetch config and ASCII Art](https://github.com/sinoquality1-arch/Windows-11-Tokyo-Night-Dot-Files/tree/main/fastfetch)
 
 
-# [Cava](https://github.com/karlstav/cava)(wsl with winscap)
-* [config](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/config)
+# [Cava](https://github.com/karlstav/cava)
+* I use default cava.
 
 
 # [WindHawk Mods](https://windhawk.net)
@@ -41,4 +42,10 @@ this is my set up for my tokyo night windows rice
 
 
 # EXTRAS
-* [my wallaper folder](https://drive.google.com/drive/folders/1GuL6vkfVSh4UMI_UacVN7z4jhkNDJDlW?usp=drive_link)
+* [Tokyo Night Wallpaper Folder](https://drive.google.com/drive/folders/1Q4PXs-VUI18B4xKbnXCyRAewHa-WrDE4?usp=sharing)
+* [Tuime](https://github.com/nthnd/tuime)
+* [pipes-rs](https://github.com/lhvy/pipes-rs)
+* [btop4win](https://github.com/aristocratos/btop)
+* [yazi](https://github.com/sxyazi/yazi)
+* [pymatrix-rain](https://pypi.org/project/pymatrix-rain/)
+* Credits to Darren Lingters and SleepyCatHey!
