@@ -22,9 +22,8 @@ this is my set up for my tokyo night windows rice
     - [violet](https://github.com/eliaszon/Violet.flow)
     - [catppuccin](https://github.com/catppuccin/flow-launcher) 
 
-# Terminal
-* [Windows Terminal](https://github.com/microsoft/terminal)
-   - [settings.json](https://github.com/sinoquality1-arch/Windows-11-Tokyo-Night-Dot-Files/blob/main/settings.json)
+# [Terminal](https://github.com/microsoft/terminal)
+* [settings.json](https://github.com/sinoquality1-arch/Windows-11-Tokyo-Night-Dot-Files/blob/main/settings.json)
 
 
 # [fastfetch](https://github.com/fastfetch-cli/fastfetch)
